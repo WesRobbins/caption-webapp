@@ -1,0 +1,8 @@
+type Todo @model {
+  id: ID!
+  name: String!
+  cap1: String!
+  cap2: String!
+  cap3: String!
+  image: String
+}
